@@ -11,7 +11,7 @@
 
 <div align="center">
 <h3><b>Mobible version screenshot</b></h3>
-<img src="images\screencapture-127-0-0-1-5500-2023-02-13-12_50_43.pdf" alt="screenshoot" width="500px"  height="800px"/>
+<img src="images\screencapture-127-0-0-1-5500-2023-02-13-12_50_43.pdf" alt="screenshoot" width="500px"  height="400px"/>
 </div>
 
 <!-- TABLE OF CONTENTS -->
